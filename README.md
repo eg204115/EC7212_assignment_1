@@ -10,9 +10,8 @@ This repository contains solutions for the four image processing tasks in Assign
 
 ## How to Run
 
-### Option 1: Run Individual Scripts
+###  Run Individual Scripts
 
-1. **Intensity Level Reduction**
 ```bash
 python task1_intensity_reduction.py
 python task2_spatial_averaging.py
